@@ -1,4 +1,4 @@
-Auto Mu Vượt thời đại version 3.1
+Auto Mu Vượt thời đại version 3.2
 Chạy trên giả lập NOX phiên bản 7.0.10 trở xuống và Ldplayer với độ phân giải màn hình 1600x900
 Phiên bản hiện tại bao gồm những tính năng :
  - Huyễn cảnh trên không (Tự cổ vũ và giảm tốc)
