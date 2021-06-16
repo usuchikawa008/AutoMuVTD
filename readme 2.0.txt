@@ -1,5 +1,6 @@
 Auto Mu Vượt thời đại version 3.2
 Chạy trên giả lập NOX phiên bản 7.0.10 trở xuống và Ldplayer với độ phân giải màn hình 1600x900
+- Chạy trên win 10
 Phiên bản hiện tại bao gồm những tính năng :
  - Huyễn cảnh trên không (Tự cổ vũ và giảm tốc)
  - Blood (Tự cổ vũ + ghép vé khi hết)
