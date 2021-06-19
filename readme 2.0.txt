@@ -1,4 +1,4 @@
-Auto Mu Vượt thời đại version 3.2
+Auto Mu Vượt thời đại version 4.0
 Chạy trên giả lập NOX phiên bản 7.0.10 trở xuống và Ldplayer với độ phân giải màn hình 1600x900
 - Chạy trên win 10
 Phiên bản hiện tại bao gồm những tính năng :
@@ -21,6 +21,7 @@ Phiên bản hiện tại bao gồm những tính năng :
  - Tự động login khi offline
  - Boss TG (chọn boss)
  - Boss CTC (chọn boss)
+ - Ma Hóa (chỉ đánh lại địa điểm đánh lần trước)
 Tiện ích :
 - Ăn đan exp khi xong hết NV
 - Cắm train khi xong hết NV
